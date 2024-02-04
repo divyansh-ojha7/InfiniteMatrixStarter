@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Game_HUD.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Health_Pack.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/lambert1.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/TEX_health_pack_Albedo.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/TEX_health_pack_Roughness.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/MI_Tunnel.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/M_TunnelBase.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/EnemyAI_Drone_BaseColor_01_-_Default.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/EnemyAI_Drone_Emissive_01_-_Default.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/EnemyAI_Drone_Metalness_01_-_Default.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/EnemyAI_Drone_Normal_01_-_Default.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/EnemyAI_Drone_Roughness_01_-_Default.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Textures/T_Noise.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Textures/T_Binary.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/EnemyAI_Drone_GeometryCollection.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/EnemyAI_Drone.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/01_-_Default.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/M_Enemy.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Audio/Darude_-_Sandstorm.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Audio/GameMusic.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Audio/health-pickup-wav.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Audio/fast-heartbeat-wav.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Audio/cinematic-boom-wav.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Audio/level-up-wav.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/T_Binary.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/T_Noise.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HealthSystem.uasset",
+				"E:/Unreal Engine Projects/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HUD.uasset"
+			]
+		}
+	]
+}
